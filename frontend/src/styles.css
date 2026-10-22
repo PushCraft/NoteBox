@@ -1,0 +1,6 @@
+:root { color-scheme: light dark; font-family: system-ui, sans-serif; }
+body { margin: 0; padding: 2rem; }
+main { max-width: 680px; margin: auto; }
+textarea { display: block; width: 100%; box-sizing: border-box; margin: .75rem 0; padding: .8rem; }
+button { padding: .7rem 1rem; }
+.muted { opacity: .65; }
